@@ -41,5 +41,5 @@ from Monocular RGB Videos",https://arxiv.org/pdf/2012.05360.pdf,,Article
 Accelerating 3D Deep Learning with PyTorch3D,https://arxiv.org/pdf/2007.08501.pdf,,Article
 Learning 3D Reconstruction in Function Space (Long Version),https://www.bilibili.com/video/BV1Mp4y167RM,,Workshop
 From Points to Multi-Object 3D Reconstruction,https://arxiv.org/pdf/2012.11575.pdf,,Article
-DualSDF: Semantic Shape Manipulation using a Two-Level Representation,https://openaccess.thecvf.com/content_CVPR_2020/papers/Hao_DualSDF_Semantic_Shape_Manipulation_Using_a_Two-Level_Representation_CVPR_2020_paper.pdf,,Article^M
-CornerNet-Lite: Efficient Keypoint-Based Object Detection,https://arxiv.org/pdf/1904.08900.pdf,code https://github.com/princeton-vl/CornerNet-Lite,Article^M
+DualSDF: Semantic Shape Manipulation using a Two-Level Representation,https://openaccess.thecvf.com/content_CVPR_2020/papers/Hao_DualSDF_Semantic_Shape_Manipulation_Using_a_Two-Level_Representation_CVPR_2020_paper.pdf,,Article
+CornerNet-Lite: Efficient Keypoint-Based Object Detection,https://arxiv.org/pdf/1904.08900.pdf,code https://github.com/princeton-vl/CornerNet-Lite,Article
