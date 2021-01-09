@@ -1,0 +1,44 @@
+﻿Name,Link,Summary,Type
+深度学习实践:计算机视觉,,https://www.notion.so/61f08ee53be24f1295a562065ab3763b,Books
+Learning Representations via Graph-structured Networks,https://xiaolonw.github.io/graphnnv2/,,Workshop
+CVPR 2020华人一作包揽最佳论文、最佳学生论文,https://zhuanlan.zhihu.com/p/148875581,,Article
+Implicit Geometric Regularization for Learning Shapes,https://arxiv.org/pdf/2002.10099.pdf,https://www.notion.so/Implicit-Geometric-Regularization-for-Learning-Shapes-d9c3cd0128754eaba82142ad350a1102,Article
+"Implicit Neural Representations with Periodic
+Activation Functions",https://arxiv.org/pdf/2006.09661.pdf,https://www.notion.so/Implicit-Neural-Representations-with-Periodic-Activation-Functions-2cc26dd7df784be9bbd03f7eb23a1c9f,Article
+"LatentFusion: End-to-End Differentiable Reconstruction and Rendering
+for Unseen Object Pose Estimation",https://arxiv.org/pdf/1912.00416.pdf,https://www.notion.so/LatentFusion-End-to-End-Differentiable-Reconstruction-and-Rendering-for-Unseen-Object-Pose-Estimati-64bb3162837b4e98beb159a5d4c1d3c8,Article
+"A Review on Object Pose Recovery: from 3D
+Bounding Box Detectors to Full 6D Pose Estimators",https://arxiv.org/pdf/2001.10609.pdf,https://www.notion.so/A-Review-on-Object-Pose-Recovery-from-3D-Bounding-Box-Detectors-to-Full-6D-Pose-Estimators-872fbb4454274ae6969f1aff4cf7ded2,Article
+KFNet: Learning Temporal Camera Relocalization using Kalman Filtering,https://arxiv.org/pdf/2003.10629.pdf,https://www.notion.so/KFNet-Learning-Temporal-Camera-Relocalization-using-Kalman-Filtering-162a949bc13e4facb812b72304c8955b,Article
+Deep Global Registration,https://node1.chrischoy.org/data/publications/dgr/DGR.pdf,https://www.notion.so/Deep-Global-Registration-bbab47a2caae4cc19ba107cc39c1c221,Article
+SAL: Sign Agnostic Learning of Shapes from Raw Data,https://arxiv.org/abs/1911.10414,https://www.notion.so/SAL-Sign-Agnostic-Learning-of-Shapes-from-Raw-Data-c21baa03808f4f5e8315cb7e11fd5216,Article
+SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization,https://yuejiang-nj.github.io/papers/CVPR2020_SDFDiff/project_page.html,https://www.notion.so/SDFDiff-Differentiable-Rendering-of-Signed-Distance-Fields-for-3D-Shape-Optimization-a8f0a65be0584b32adbb3cfa9190fd27,Article
+FroDO: From Detections to 3D Objects,https://arxiv.org/abs/2005.05125,https://www.notion.so/FroDO-From-Detections-to-3D-Objects-cc775c7ae5b24ac4a14462751d735df4,Article
+SuperGlue:Learning Feature Matching with Graph Neural Networks,https://arxiv.org/abs/1911.11763,,Article
+目标检测的过去、现在与将来,https://www.bilibili.com/video/BV1154y1v7BZ,,Workshop
+Adversarial Generation of Continuous Implicit Shape Representations,https://arxiv.org/abs/2002.00349,https://www.notion.so/Adversarial-Generation-of-Continuous-Implicit-Shape-Representations-f6bbc480b5a040b4a799e9947e3f1192,Article
+Curriculum DeepSDF,https://arxiv.org/pdf/2003.08593.pdf,,Article
+"Fully Convolutional Geometric Features for Category-level Object
+Alignment",http://erl.ucsd.edu/ref/Feng_CategoryAlignment_IROS20.pdf,,Article
+Manifold Learning in Quotient Spaces,https://openaccess.thecvf.com/content_cvpr_2018/papers/Mehr_Manifold_Learning_in_CVPR_2018_paper.pdf,,Article
+Generalized Autoencoder for Volumetric Shape Generation,https://openaccess.thecvf.com/content_CVPRW_2020/papers/w17/Guan_Generalized_Autoencoder_for_Volumetric_Shape_Generation_CVPRW_2020_paper.pdf,,Article
+SAMP: Shape and Motion Priors for 4D Vehicle Reconstruction,https://www.vision.rwth-aachen.de/media/papers/EngelmannWACV17_x8euNDK.pdf,,Article
+深度学习框架PyTorch：入门与实践,https://github.com/chenyuntc/pytorch-book,https://www.notion.so/PyTorch-bf69705ce0b842de86a7afd454409c68,Books
+YOLOv4: Optimal Speed and Accuracy of Object Detection,https://arxiv.org/abs/2004.10934,https://www.notion.so/YOLOv4-Optimal-Speed-and-Accuracy-of-Object-Detection-71483bf5f17041d1986d8e5b0eec0b11,Article
+Self6D: Self-Supervised Monocular 6D Object Pose Estimation,https://github.com/THU-DA-6D-Pose-Group/Self6D-Diff-Renderer,,Article
+Machine Learning Optimized Systems,https://remziarpacidusseau.wixsite.com/mlos,,Workshop
+HybridPose: 6D Object Pose Estimation under Hybrid Representations,https://github.com/chensong1995/HybridPose,,Article
+PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation,https://github.com/zju3dv/pvnet,,Article
+"Learning Monocular 3D Vehicle Detection
+without 3D Bounding Box Labels",https://lukaskoestler.com/ldwl,,Article
+"Deep Shells: Unsupervised Shape Correspondence
+with Optimal Transport",https://arxiv.org/pdf/2010.15261.pdf,,Article
+Conditional Link Prediction of Category-Implicit Keypoint Detection,https://arxiv.org/pdf/2011.14462.pdf,,Article
+RfD-Net: Point Scene Understanding by Semantic Instance Reconstruction,https://arxiv.org/pdf/2011.14744.pdf,,Article
+Vid2CAD: CAD Model Alignment using Multi-View Constraints from Videos,https://arxiv.org/pdf/2012.04641.pdf,,Article
+"MO-LTR: Multiple Object Localization, Tracking and Reconstruction
+from Monocular RGB Videos",https://arxiv.org/pdf/2012.05360.pdf,,Article
+Accelerating 3D Deep Learning with PyTorch3D,https://arxiv.org/pdf/2007.08501.pdf,,Article
+Learning 3D Reconstruction in Function Space (Long Version),https://www.bilibili.com/video/BV1Mp4y167RM,,Workshop
+From Points to Multi-Object 3D Reconstruction,https://arxiv.org/pdf/2012.11575.pdf,,Article
+DualSDF: Semantic Shape Manipulation using a Two-Level Representation,https://openaccess.thecvf.com/content_CVPR_2020/papers/Hao_DualSDF_Semantic_Shape_Manipulation_Using_a_Two-Level_Representation_CVPR_2020_paper.pdf,,Article
