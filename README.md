@@ -2,9 +2,9 @@
 
 This repo contains the reading list related to semantic SLAM, including 
 
-- Object SLAM 
+- [Object SLAM](https://github.com/moshanATucsd/Semantic-SLAM-paper-reading/blob/main/Object_SLAM.csv) 
 - Deep learning 
 
 ## Notes 
 
-- This reading list is ported from `Notion` so there are some hash values in the file names 
+- Some reading list content is ported from `Notion`  
