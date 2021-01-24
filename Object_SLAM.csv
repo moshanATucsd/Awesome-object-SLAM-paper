@@ -94,3 +94,9 @@ A2D2: Audi Autonomous Driving Dataset,https://www.a2d2.audi/content/dam/a2d2/dat
 Practical Persistence Reasoning in Visual SLAM,https://ieeexplore.ieee.org/document/9196913,,Paper
 Vision Only 3-D Shape Estimation for Autonomous Driving,http://ras.papercept.net/images/temp/IROS/files/1543.pdf,,Paper	
 Event-based Vision: A Survey,https://arxiv.org/pdf/1904.08405.pdf,,Paper
+Ellipse R-CNN: Learning to Infer Elliptical Object
+from Clustering and Occlusion,https://arxiv.org/pdf/2001.11584.pdf,,Paper
+Ellipse Regression with Predicted Uncertainties for
+Accurate Multi-View 3D Object Estimation,https://arxiv.org/pdf/2101.05212.pdf,,Paper
+NodeSLAM: Neural Object Descriptors for Multi-View Shape Reconstruction,https://ieeexplore.ieee.org/abstract/document/9320317,https://edgarsucar.github.io/NodeSLAM/,Paper
+
