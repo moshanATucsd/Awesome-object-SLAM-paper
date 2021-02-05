@@ -43,3 +43,4 @@ Learning 3D Reconstruction in Function Space (Long Version),https://www.bilibili
 From Points to Multi-Object 3D Reconstruction,https://arxiv.org/pdf/2012.11575.pdf,,Paper
 DualSDF: Semantic Shape Manipulation using a Two-Level Representation,https://openaccess.thecvf.com/content_CVPR_2020/papers/Hao_DualSDF_Semantic_Shape_Manipulation_Using_a_Two-Level_Representation_CVPR_2020_paper.pdf,,Paper
 CornerNet-Lite: Efficient Keypoint-Based Object Detection,https://arxiv.org/pdf/1904.08900.pdf,code https://github.com/princeton-vl/CornerNet-Lite,Paper
+Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes,https://arxiv.org/pdf/2101.10994.pdf,,Paper
