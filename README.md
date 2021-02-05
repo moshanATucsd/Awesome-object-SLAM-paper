@@ -1,6 +1,6 @@
 ## Semantic SLAM paper readling list 
 
-This repo contains the reading list related to semantic SLAM, including 
+This repo contains the reading list related to object SLAM, including 
 
 - [Object SLAM](https://github.com/moshanATucsd/Semantic-SLAM-paper-reading/blob/main/Object_SLAM.csv) 
 - [Deep learning](https://github.com/moshanATucsd/Semantic-SLAM-paper-reading/blob/main/Deep_learning.csv) 
