@@ -63,15 +63,11 @@ Challenging Dynamic Agricultural Environment",https://arxiv.org/pdf/2011.01122.p
 SLAM Factor Graphs",http://ras.papercept.net/images/temp/IROS/files/0359.pdf,,Paper
 RISE-SLAM: A Resource-aware Inverse Schmidt Estimator for SLAM,http://mars.cs.umn.edu/papers/Schmidt_IROS_2019.pdf,,Paper
 Compositional Scalable Object SLAM,https://arxiv.org/pdf/2011.02658.pdf,,Paper
-Robotics Today - A Series of Technical Talks,https://roboticstoday.github.io/index.html,,Workshop
-LM-Reloc: Levenberg-Marquardt Based Direct Visual Relocalization,https://vision.in.tum.de/research/vslam/lm-reloc?redirect=1,,Paper
-"Real-Time Temporal and Rotational Calibration of
-Heterogeneous Sensors Using Motion
-Correlation Analysis",https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9271875&casa_token=FELVFABtlcgAAAAA:BjsErtqeb7YvqMKPFButK96S-MfC_vGfcgnIKNmjPnEz63NTMhGO2H36BUtd8d0YLn8M9D2W9A&tag=1,,Paper
-"Online IMU Intrinsic Calibration:
-Is It Necessary?",http://www.roboticsproceedings.org/rss16/p026.pdf,,Paper
-"xVIO:
-A Range-Visual-Inertial Odometry Framework",https://arxiv.org/pdf/2010.06677.pdf,,Paper
+Robotics Today A Series of Technical Talks,https://roboticstoday.github.io/index.html,,Workshop
+LM-Reloc Levenberg-Marquardt Based Direct Visual Relocalization,https://vision.in.tum.de/research/vslam/lm-reloc?redirect=1,,Paper
+"Real-Time Temporal and Rotational Calibration of Heterogeneous Sensors Using Motion Correlation Analysis",https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9271875&casa_token=FELVFABtlcgAAAAA:BjsErtqeb7YvqMKPFButK96S-MfC_vGfcgnIKNmjPnEz63NTMhGO2H36BUtd8d0YLn8M9D2W9A&tag=1,,Paper
+"Online IMU Intrinsic Calibration: Is It Necessary?",http://www.roboticsproceedings.org/rss16/p026.pdf,,Paper
+"xVIO: A Range-Visual-Inertial Odometry Framework",https://arxiv.org/pdf/2010.06677.pdf,,Paper
 CodeVIO: Visual-Inertial Odometry with Learned Optimizable Dense Depth,https://arxiv.org/pdf/2012.10133.pdf,,Paper
 Dynamic SLAM: The Need For Speed,https://arxiv.org/pdf/2002.08584.pdf,,Paper
 "Perspective-2-Ellipsoid: Bridging the Gap Between
