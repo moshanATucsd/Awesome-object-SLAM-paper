@@ -63,10 +63,15 @@ Challenging Dynamic Agricultural Environment",https://arxiv.org/pdf/2011.01122.p
 SLAM Factor Graphs",http://ras.papercept.net/images/temp/IROS/files/0359.pdf,,Paper
 RISE-SLAM: A Resource-aware Inverse Schmidt Estimator for SLAM,http://mars.cs.umn.edu/papers/Schmidt_IROS_2019.pdf,,Paper
 Compositional Scalable Object SLAM,https://arxiv.org/pdf/2011.02658.pdf,,Paper
-Robotics Today A Series of Technical Talks,https://roboticstoday.github.io/index.html,,Workshop
-"Real-Time Temporal and Rotational Calibration of Heterogeneous Sensors Using Motion Correlation Analysis",https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9271875&casa_token=FELVFABtlcgAAAAA:BjsErtqeb7YvqMKPFButK96S-MfC_vGfcgnIKNmjPnEz63NTMhGO2H36BUtd8d0YLn8M9D2W9A&tag=1,,Paper
-"Online IMU Intrinsic Calibration: Is It Necessary?",http://www.roboticsproceedings.org/rss16/p026.pdf,,Paper
-"xVIO: A Range-Visual-Inertial Odometry Framework",https://arxiv.org/pdf/2010.06677.pdf,,Paper
+Robotics Today - A Series of Technical Talks,https://roboticstoday.github.io/index.html,,Workshop
+LM-Reloc: Levenberg-Marquardt Based Direct Visual Relocalization,https://vision.in.tum.de/research/vslam/lm-reloc?redirect=1,,Paper
+"Real-Time Temporal and Rotational Calibration of
+Heterogeneous Sensors Using Motion
+Correlation Analysis",https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9271875&casa_token=FELVFABtlcgAAAAA:BjsErtqeb7YvqMKPFButK96S-MfC_vGfcgnIKNmjPnEz63NTMhGO2H36BUtd8d0YLn8M9D2W9A&tag=1,,Paper
+"Online IMU Intrinsic Calibration:
+Is It Necessary?",http://www.roboticsproceedings.org/rss16/p026.pdf,,Paper
+"xVIO:
+A Range-Visual-Inertial Odometry Framework",https://arxiv.org/pdf/2010.06677.pdf,,Paper
 CodeVIO: Visual-Inertial Odometry with Learned Optimizable Dense Depth,https://arxiv.org/pdf/2012.10133.pdf,,Paper
 Dynamic SLAM: The Need For Speed,https://arxiv.org/pdf/2002.08584.pdf,,Paper
 "Perspective-2-Ellipsoid: Bridging the Gap Between
@@ -87,11 +92,3 @@ Indoor Environments",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7571184/pdf/se
 RGB-D Odometry and SLAM,https://arxiv.org/pdf/2001.06875.pdf,,Paper
 A2D2: Audi Autonomous Driving Dataset,https://www.a2d2.audi/content/dam/a2d2/dataset/a2d2-audi-autonomous-driving-dataset.pdf,website https://www.a2d2.audi/a2d2/en.html,Paper
 Practical Persistence Reasoning in Visual SLAM,https://ieeexplore.ieee.org/document/9196913,,Paper
-Vision Only 3-D Shape Estimation for Autonomous Driving,http://ras.papercept.net/images/temp/IROS/files/1543.pdf,,Paper	
-Event-based Vision: A Survey,https://arxiv.org/pdf/1904.08405.pdf,,Paper
-Ellipse R-CNN: Learning to Infer Elliptical Object
-from Clustering and Occlusion,https://arxiv.org/pdf/2001.11584.pdf,,Paper
-Ellipse Regression with Predicted Uncertainties for
-Accurate Multi-View 3D Object Estimation,https://arxiv.org/pdf/2101.05212.pdf,,Paper
-NodeSLAM: Neural Object Descriptors for Multi-View Shape Reconstruction,https://ieeexplore.ieee.org/abstract/document/9320317,https://edgarsucar.github.io/NodeSLAM/,Paper
-
