@@ -44,3 +44,6 @@ From Points to Multi-Object 3D Reconstruction,https://arxiv.org/pdf/2012.11575.p
 DualSDF: Semantic Shape Manipulation using a Two-Level Representation,https://openaccess.thecvf.com/content_CVPR_2020/papers/Hao_DualSDF_Semantic_Shape_Manipulation_Using_a_Two-Level_Representation_CVPR_2020_paper.pdf,,Paper
 CornerNet-Lite: Efficient Keypoint-Based Object Detection,https://arxiv.org/pdf/1904.08900.pdf,code https://github.com/princeton-vl/CornerNet-Lite,Paper
 Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes,https://arxiv.org/pdf/2101.10994.pdf,,Paper
+DeformSyncNet: Deformation Transfer via Synchronized Shape Deformation Spaces,https://arxiv.org/pdf/2009.01456.pdf,https://github.com/Steve-Tod/DeformSyncNet,Paper
+Deformation-Aware 3D Model Embedding and Retrieval,https://deformscan2cad.github.io/,https://github.com/mikacuy/deformation_aware_embedding,Paper 
+Ellipse R-CNN: Learning to Infer Elliptical Object from Clustering and Occlusion,https://arxiv.org/pdf/2001.11584.pdf,,Paper 
