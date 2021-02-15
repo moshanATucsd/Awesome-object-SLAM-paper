@@ -92,3 +92,12 @@ Indoor Environments",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7571184/pdf/se
 RGB-D Odometry and SLAM,https://arxiv.org/pdf/2001.06875.pdf,,Paper
 A2D2: Audi Autonomous Driving Dataset,https://www.a2d2.audi/content/dam/a2d2/dataset/a2d2-audi-autonomous-driving-dataset.pdf,website https://www.a2d2.audi/a2d2/en.html,Paper
 Practical Persistence Reasoning in Visual SLAM,https://ieeexplore.ieee.org/document/9196913,,Paper
+CNN-SVO: Improving the Mapping in Semi-Direct Visual Odometry Using Single-Image Depth Prediction,https://arxiv.org/pdf/1810.01011.pdf,https://github.com/yan99033/CNN-SVO,Paper 
+CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction,https://arxiv.org/pdf/1704.03489.pdf,https://github.com/iitmcvg/CNN_SLAM,Paper
+A Minimalist Approach to Type-Agnostic Detection of Quadrics in Point Clouds,https://openaccess.thecvf.com/content_cvpr_2018/papers/Birdal_A_Minimalist_Approach_CVPR_2018_paper.pdf,,Paper
+Camera Relocalization with Ellipsoidal Abstraction of Objects,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8943719&casa_token=w3hsiyGED5wAAAAA:CZBY-0AYrXF-8oDYDXzs1i01SXQPES7Ebe5SXnZyqAzZfwGUXk5N2dc3dCZaI29JWLcDScz3Fw&tag=1,,Paper
+Camera Pose Estimation with Semantic 3D Model,https://hal.archives-ouvertes.fr/hal-02181962/document,,Paper
+Generic Primitive Detection in Point Clouds Using Novel Minimal Quadric Fits,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8644023&casa_token=azf_vAH8UlwAAAAA:7xpPbSAU6F59g41KOkC79EzXow-HYmI7s2pvl5JJiin73WldXH5FoLiNFcbvukcsmOHYxMawpA,https://scicomp.stackexchange.com/questions/26105/fitting-implicit-surfaces-to-oriented-point-sets/31123,Paper
+Factorization based structure from motion with object priors,https://www.sciencedirect.com/science/article/abs/pii/S1077314217301893,,Paper
+Scene Understanding with Multi-view Geometry and Semantics,http://cosimorubino.com/paper/thesis.pdf,,Thesis
+A Unified Framework for Piecewise Semantic Reconstruction in Dynamic Scenes via Exploiting Superpixel Relations,http://xiangyangji.com/uploadfile/upload/2020072017390212.pdf,,Paper

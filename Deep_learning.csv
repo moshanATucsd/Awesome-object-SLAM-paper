@@ -28,7 +28,7 @@ YOLOv4: Optimal Speed and Accuracy of Object Detection,https://arxiv.org/abs/200
 Self6D: Self-Supervised Monocular 6D Object Pose Estimation,https://github.com/THU-DA-6D-Pose-Group/Self6D-Diff-Renderer,,Paper
 Machine Learning Optimized Systems,https://remziarpacidusseau.wixsite.com/mlos,,Workshop
 HybridPose: 6D Object Pose Estimation under Hybrid Representations,https://github.com/chensong1995/HybridPose,,Paper
-PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation,https://github.com/zju3dv/pvnet,,Paper
+PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation,https://github.com/zju3dv/pvnet,https://github.com/sgawalsh/stvNet,Paper
 "Learning Monocular 3D Vehicle Detection
 without 3D Bounding Box Labels",https://lukaskoestler.com/ldwl,,Paper
 "Deep Shells: Unsupervised Shape Correspondence
@@ -47,3 +47,20 @@ Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes,ht
 DeformSyncNet: Deformation Transfer via Synchronized Shape Deformation Spaces,https://arxiv.org/pdf/2009.01456.pdf,https://github.com/Steve-Tod/DeformSyncNet,Paper
 Deformation-Aware 3D Model Embedding and Retrieval,https://deformscan2cad.github.io/,https://github.com/mikacuy/deformation_aware_embedding,Paper 
 Ellipse R-CNN: Learning to Infer Elliptical Object from Clustering and Occlusion,https://arxiv.org/pdf/2001.11584.pdf,,Paper 
+DIST: Rendering Deep Implicit Signed Distance Function with Differentiable Sphere Tracing,http://b1ueber2y.me/projects/DIST-Renderer/,https://github.com/B1ueber2y/DIST-Renderer,Paper 
+Category Level Object Pose Estimation via Neural Analysis-by-Synthesis,https://arxiv.org/pdf/2008.08145.pdf,,Paper
+DeepVoxels: Learning Persistent 3D Feature Embeddings,https://arxiv.org/pdf/1812.01024.pdf,,Paper
+Differentiable Volume Rendering using Signed Distance Functions,https://dspace.mit.edu/bitstream/handle/1721.1/124253/1145123039-MIT.pdf?sequence=1&isAllowed=y,,Paper
+Signed Distance Fields for Rigid and Deformable 3D Reconstruction,http://mediatum.ub.tum.de/doc/1445794/654296.pdf,,Paper 
+POINTVOTENET: ACCURATE OBJECT DETECTION AND 6 DOF POSE ESTIMATION IN POINT CLOUDS,https://arxiv.org/pdf/1912.09057.pdf,,Paper
+SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation,https://arxiv.org/pdf/1612.00606.pdf,,Paper 
+KeypointNet: A Large-scale 3D Keypoint Dataset Aggregated from Numerous Human Annotations,https://arxiv.org/pdf/2002.12687.pdf,https://github.com/qq456cvb/KeypointNet,Paper
+Learning deep network for detecting 3D object keypoints and 6D poses,https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Learning_Deep_Network_for_Detecting_3D_Object_Keypoints_and_6D_CVPR_2020_paper.pdf,,Paper 
+Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency,https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Xingyi_Zhou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf,https://github.com/xingyizhou/3DKeypoints-DA,Paper
+SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation,,https://github.com/lzccccc/SMOKE,Paper
+Unsupervised Learning of Category-Specific Symmetric 3D Keypoints from Point Sets,http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700545.pdf,https://github.com/cfernandezlab/Category-Specific-Keypoints,Paper 
+PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation,https://arxiv.org/pdf/1911.04231.pdf,,Paper
+PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection,https://arxiv.org/pdf/1912.13192.pdf,,Paper
+Iterative Transformer Network for 3D Point Cloud,https://arxiv.org/pdf/1811.11209.pdf,,Paper
+PCRNet: Point Cloud Registration Network using PointNet Encoding,https://arxiv.org/pdf/1908.07906.pdf,,Paper
+Learning 3D Shape Completion under Weak Supervision,https://arxiv.org/pdf/1805.07290.pdf,https://davidstutz.de/projects/shape-completion/,Paper
