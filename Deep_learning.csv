@@ -64,3 +64,7 @@ PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection,https://arx
 Iterative Transformer Network for 3D Point Cloud,https://arxiv.org/pdf/1811.11209.pdf,,Paper
 PCRNet: Point Cloud Registration Network using PointNet Encoding,https://arxiv.org/pdf/1908.07906.pdf,,Paper
 Learning 3D Shape Completion under Weak Supervision,https://arxiv.org/pdf/1805.07290.pdf,https://davidstutz.de/projects/shape-completion/,Paper
+NEMO: NEURAL MESH MODELS OF CONTRASTIVE FEATURES FOR ROBUST 3D POSE ESTIMATION,https://arxiv.org/pdf/2101.12378.pdf,https://github.com/Angtian/NeMo,Paper
+Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations,https://arxiv.org/pdf/2012.06434.pdf,,Paper
+Neural Cages for Detail-Preserving 3D Deformations,https://igl.ethz.ch/projects/neural-cage/06035.pdf,,Paper
+Local Implicit Grid Representations for 3D Scenes,https://geometry.stanford.edu/papers/jsmhnf-lligrf3s-20/jsmhnf-lligrf3s-20.pdf,,Paper 

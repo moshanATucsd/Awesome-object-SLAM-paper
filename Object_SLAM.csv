@@ -101,3 +101,6 @@ Generic Primitive Detection in Point Clouds Using Novel Minimal Quadric Fits,htt
 Factorization based structure from motion with object priors,https://www.sciencedirect.com/science/article/abs/pii/S1077314217301893,,Paper
 Scene Understanding with Multi-view Geometry and Semantics,http://cosimorubino.com/paper/thesis.pdf,,Thesis
 A Unified Framework for Piecewise Semantic Reconstruction in Dynamic Scenes via Exploiting Superpixel Relations,http://xiangyangji.com/uploadfile/upload/2020072017390212.pdf,,Paper
+Representations and Benchmarking of Modern Visual SLAM Systems,https://www.mdpi.com/1424-8220/20/9/2572,,Paper 
+Deep-SLAM++: Object-level RGBD SLAM based on class-specific deep shape priors,https://arxiv.org/pdf/1907.09691.pdf,,Paper
+Semantic Photometric Bundle Adjustment on Natural Sequences,https://arxiv.org/pdf/1712.00110.pdf,,Paper
