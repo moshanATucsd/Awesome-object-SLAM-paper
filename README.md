@@ -7,4 +7,4 @@ This repo contains the reading list related to object SLAM, including
 
 ## Notes 
 
-- Some reading list content is ported from `Notion`  
+- Some reading list content is ported from `Notion` and are outdated 
