@@ -68,5 +68,4 @@ NEMO: NEURAL MESH MODELS OF CONTRASTIVE FEATURES FOR ROBUST 3D POSE ESTIMATION,h
 Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations,https://arxiv.org/pdf/2012.06434.pdf,,Paper
 Neural Cages for Detail-Preserving 3D Deformations,https://igl.ethz.ch/projects/neural-cage/06035.pdf,,Paper
 Local Implicit Grid Representations for 3D Scenes,https://geometry.stanford.edu/papers/jsmhnf-lligrf3s-20/jsmhnf-lligrf3s-20.pdf,,Paper 
-GDR-Net: Geometry-Guided Direct Regression Network for
-Monocular 6D Object Pose Estimation,https://github.com/THU-DA-6D-Pose-Group/GDR-Net,,Paper 
+GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation,https://github.com/THU-DA-6D-Pose-Group/GDR-Net,,Paper 

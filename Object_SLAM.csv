@@ -106,5 +106,4 @@ Deep-SLAM++: Object-level RGBD SLAM based on class-specific deep shape priors,ht
 Semantic Photometric Bundle Adjustment on Natural Sequences,https://arxiv.org/pdf/1712.00110.pdf,,Paper
 ICRA 2020 notes,https://github.com/moshanATucsd/ICRA-2020-notes,,Conference
 Visual inertial odometry on a budget,https://riccardogiubilato.github.io/visual/odometry/2017/12/12/Visual-Inertial-Odometry-On-A-Budget.html,,Blog
-OV2SLAM : A Fully Online and Versatile Visual SLAM for Real-Time
-Applications,https://arxiv.org/pdf/2102.04060.pdf,https://github.com/ov2slam/ov2slam,Paper
+OV2SLAM:A Fully Online and Versatile Visual SLAM for Real-Time Applications,https://arxiv.org/pdf/2102.04060.pdf,https://github.com/ov2slam/ov2slam,Paper
