@@ -78,10 +78,8 @@ Probabilistic Structure from Motion with Objects (PSfMO),https://openaccess.thec
 Structure from Motion with Objects,https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Crocco_Structure_From_Motion_CVPR_2016_paper.pdf,,Paper
 "Lifting 2D object detections to 3D:
 A geometric approach in multiple views",http://www.diegm.uniud.it/fusiello/papers/iciap17a.pdf,code https://github.com/csrubino/from2Dto3D,Paper
-"Spherical Regression:
-Learning Viewpoints, Surface Normals and 3D Rotations on n-Spheres",https://arxiv.org/pdf/1904.05404.pdf,,Paper
-"Robust 6D Object Pose Estimation
-with Stochastic Congruent Sets",http://bmvc2018.org/contents/papers/1046.pdf,,Paper
+"Spherical Regression: Learning Viewpoints, Surface Normals and 3D Rotations on n-Spheres",https://arxiv.org/pdf/1904.05404.pdf,,Paper
+"Robust 6D Object Pose Estimation with Stochastic Congruent Sets",http://bmvc2018.org/contents/papers/1046.pdf,,Paper
 3D Object Localisation from Multi-View Image Detections,https://github.com/IIT-PAVIS/LfD,,Paper
 TartanAir: A Dataset to Push the Limits of Visual SLAM,http://theairlab.org/tartanair-dataset/,,Paper
 "RGB-D Object SLAM Using Quadrics for Indoor Environments",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7571184/pdf/sensors-20-05150.pdf,,Paper
