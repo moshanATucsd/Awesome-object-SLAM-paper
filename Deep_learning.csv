@@ -72,3 +72,4 @@ GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose 
 NeMI: Unifying Neural Radiance Fields with Multiplane Images for Novel View Synthesis,https://arxiv.org/pdf/2103.14910.pdf,,Paper
 DXSLAM: A Robust and Efficient Visual SLAM System with Deep Features,https://arxiv.org/abs/2008.05416,https://github.com/ivipsourcecode/dxslam,Paper
 GCNv2: Efficient Correspondence Prediction for Real-Time SLAM,https://arxiv.org/pdf/1902.11046.pdf,https://github.com/jiexiong2016/GCNv2_SLAM,Paper
+Geometric foundations of Deep Learning,https://geometricdeeplearning.com/,,Book
